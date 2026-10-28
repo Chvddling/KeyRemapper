@@ -1,5 +1,5 @@
 
-<img width="743" height="738" alt="image" src="https://github.com/user-attachments/assets/423fba92-96d3-46c3-ad85-d0c8d738b07c" />
+<img width="543" height="538" alt="image" src="https://github.com/user-attachments/assets/423fba92-96d3-46c3-ad85-d0c8d738b07c" />
 
 # Key Remapper
 
